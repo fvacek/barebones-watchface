@@ -249,7 +249,7 @@ impl BarebonesWatchFace {
         let mut buf = new_string();
         write!(
             &mut buf,                    //  Write the formatted text
-            "{} {}%{}#\nFanda ({}mV)\0",  //  Must terminate Rust strings with null
+            "{} {}%{}#\nFANDA ({}mV)\0",  //  Must terminate Rust strings with null
             color,
             percentage,
             symbol,
