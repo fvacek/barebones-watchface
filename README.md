@@ -2,7 +2,7 @@
 
 ![Barebones Watch Face for Rust + Mynewt on PineTime Smart Watch](watchface.png)
 
-[__Preview this Watch Face in your web browser__](https://lupyuen.github.io/barebones-watchface/lvgl.html)
+[__Preview this Watch Face in your web browser__](https://fvacek.github.io/barebones-watchface/lvgl.html)
 
 Barebones, no frills Rust Watch Face for PineTime Smart Watch with LVGL and Mynewt...
 
